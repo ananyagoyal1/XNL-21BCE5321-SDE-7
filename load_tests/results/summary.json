@@ -1,0 +1,9 @@
+{
+  "total_transactions": 100,
+  "successful_transactions": 89,
+  "success_rate": 0.89,
+  "avg_duration": 3.222267596721649,
+  "max_duration": 4.026841640472412,
+  "min_duration": 2.1859424114227295,
+  "timestamp": "2025-03-13T22:45:05.901221"
+}

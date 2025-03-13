@@ -1,0 +1,162 @@
+[
+  {
+    "transaction_id": 0,
+    "thread_id": 1,
+    "duration": 3.6525371074676514,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:43:58.442238"
+  },
+  {
+    "transaction_id": 1,
+    "thread_id": 1,
+    "duration": 3.3257124423980713,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:01.906438"
+  },
+  {
+    "transaction_id": 2,
+    "thread_id": 1,
+    "duration": 3.474484443664551,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:05.577297"
+  },
+  {
+    "transaction_id": 3,
+    "thread_id": 1,
+    "duration": 2.5474867820739746,
+    "status_code": 500,
+    "success": false,
+    "timestamp": "2025-03-13T22:44:08.452947"
+  },
+  {
+    "transaction_id": 4,
+    "thread_id": 1,
+    "duration": 2.9410452842712402,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:11.573540"
+  },
+  {
+    "transaction_id": 5,
+    "thread_id": 1,
+    "duration": 2.919955015182495,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:14.731154"
+  },
+  {
+    "transaction_id": 6,
+    "thread_id": 1,
+    "duration": 3.439709424972534,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:18.327957"
+  },
+  {
+    "transaction_id": 7,
+    "thread_id": 1,
+    "duration": 3.9691638946533203,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:22.415993"
+  },
+  {
+    "transaction_id": 8,
+    "thread_id": 1,
+    "duration": 3.49643611907959,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:26.314150"
+  },
+  {
+    "transaction_id": 9,
+    "thread_id": 1,
+    "duration": 3.9644579887390137,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:30.762868"
+  },
+  {
+    "transaction_id": 10,
+    "thread_id": 1,
+    "duration": 3.6801917552948,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:34.634538"
+  },
+  {
+    "transaction_id": 11,
+    "thread_id": 1,
+    "duration": 3.6859331130981445,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:38.614325"
+  },
+  {
+    "transaction_id": 12,
+    "thread_id": 1,
+    "duration": 3.69120192527771,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:42.496386"
+  },
+  {
+    "transaction_id": 13,
+    "thread_id": 1,
+    "duration": 3.120211362838745,
+    "status_code": 500,
+    "success": false,
+    "timestamp": "2025-03-13T22:44:45.839366"
+  },
+  {
+    "transaction_id": 14,
+    "thread_id": 1,
+    "duration": 2.4362194538116455,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:48.462717"
+  },
+  {
+    "transaction_id": 15,
+    "thread_id": 1,
+    "duration": 2.2499303817749023,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:50.975259"
+  },
+  {
+    "transaction_id": 16,
+    "thread_id": 1,
+    "duration": 3.801767587661743,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:54.963720"
+  },
+  {
+    "transaction_id": 17,
+    "thread_id": 1,
+    "duration": 3.098642349243164,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:44:58.533443"
+  },
+  {
+    "transaction_id": 18,
+    "thread_id": 1,
+    "duration": 3.029940605163574,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:45:01.664017"
+  },
+  {
+    "transaction_id": 19,
+    "thread_id": 1,
+    "duration": 2.8049182891845703,
+    "status_code": 200,
+    "success": true,
+    "timestamp": "2025-03-13T22:45:04.642256"
+  }
+]

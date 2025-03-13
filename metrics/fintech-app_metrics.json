@@ -1,0 +1,32 @@
+{
+  "counters": {
+    "transactions_total": {
+      "value": 100,
+      "description": "Total number of transactions processed"
+    },
+    "transaction_errors_total": {
+      "value": 11,
+      "description": "Total number of transaction errors"
+    }
+  },
+  "gauges": {
+    "active_requests": {
+      "value": 0,
+      "description": "Number of requests currently being processed"
+    }
+  },
+  "histograms": {
+    "transaction_duration_seconds": {
+      "count": 100,
+      "sum": 119.09606218338013,
+      "buckets": {
+        "0.1": 0,
+        "0.5": 16,
+        "1.0": 35,
+        "2.0": 100,
+        "5.0": 100
+      },
+      "description": "Transaction processing duration in seconds"
+    }
+  }
+}
